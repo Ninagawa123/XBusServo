@@ -1,0 +1,15 @@
+XBusServo	KEYWORD1
+begin	KEYWORD2
+end	KEYWORD2
+addServo	KEYWORD2
+removeServo	KEYWORD2
+setServo	KEYWORD2
+sendChannelDataPacket	KEYWORD2
+setChannelID	KEYWORD2
+setCommand	KEYWORD2
+getCommand	KEYWORD2
+kXBusInterval	KEYWORD2
+kXbusServoNeutral	KEYWORD2
+kXBusMaxServoNum	KEYWORD2
+kXBusMaxServoSubID	KEYWORD2
+kXBusServoProductIDBase	KEYWORD2
